@@ -5,8 +5,6 @@ Generic notes and/or a place to test stuff.
 
 Trying to create a link to the "folder" directory.
 
-<li>
-  <a href="/folder/"> Link </a>
-</li>
-
-* [Link](/folder/)
+<ul>
+  <li> <a href="/folder/"> Link </a> </li>
+</ul>
