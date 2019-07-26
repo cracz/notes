@@ -1,6 +1,7 @@
 # Programming Notes
 Notes for any programming languages or useful software.
 
+## Languages
 <ul>
   <li> <a href="/python/"> Python </a> </li>
   <li> <a href="/cpp/"> C++ (planned for later) </a> </li>
