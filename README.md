@@ -5,6 +5,6 @@ Generic notes and/or a place to test stuff.
 
 Trying to create a link to the "folder" directory.
 <li>
-  ::marker
-  <a href="/cracz/general-notes/folder/file.txt">Link</a>
+  *
+  <a href="/cracz/general-notes/blob/master/folder/file.txt">Link</a>
 </li>
