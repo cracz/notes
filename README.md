@@ -1,10 +1,9 @@
-# general-notes
-Generic notes and/or a place to test stuff.
-
-### Subcategory
-
-Trying to create a link to the "folder" directory.
+# Programming Notes
+Notes for any programming languages or useful software.
 
 <ul>
-  <li> <a href="/folder/"> Link </a> </li>
+  <li> <a href="/python/"> Python </a> </li>
+  <li> <a href="/cpp/"> C++ (planned for later) </a> </li>
+  <li> <a href="/R/"> R (planned for later) </a> </li>
+  <li> <a href="/java/"> Java (planned for later) </a> </li>
 </ul>
