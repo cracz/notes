@@ -5,4 +5,4 @@ Generic notes and/or a place to test stuff.
 
 Trying to create a link to the "folder" directory.
 
-* [Link](../blob/master/folder/file.txt)
+* [Link](../general-notes/blob/master/folder/file.txt)
