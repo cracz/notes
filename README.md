@@ -1,8 +1,12 @@
 # general-notes
 Generic notes and/or a place to test stuff.
 
-## Subcategory
+### Subcategory
 
 Trying to create a link to the "folder" directory.
+
+<li>
+  <a href="/folder/"> Link </a>
+</li>
 
 * [Link](/folder/)
