@@ -2,9 +2,8 @@
 Notes for any programming languages or useful software.
 
 ## Languages
-<ul>
-  <li> <a href="/python/"> Python </a> </li>
-  <li> <a href="/cpp/"> C++ (planned for later) </a> </li>
-  <li> <a href="/R/"> R (planned for later) </a> </li>
-  <li> <a href="/java/"> Java (planned for later) </a> </li>
-</ul>
+
+* [Python](/python/)
+* [C++](/cpp/) (Planned for later)
+* [R](/R/) (Planned for later)
+* [Java](/java/) (Planned for later)
