@@ -1,6 +1,8 @@
 # Programming Notes
 Notes for any programming languages or useful software.
 
+* [Git](/git/)
+
 ## Languages
 
 * [Python](/python/)
