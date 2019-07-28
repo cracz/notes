@@ -177,8 +177,8 @@ not in | x not in y | True if a sequence with the specified value is not present
 
 Operator | Name | Example | Description
 :--------|:----:|:-------:|:----------:
-<< | Zero Fill Left Shift | x << y | Returns x with the bits shifted to the left by y places (and new bits on the right-hand-side are zeros). This is the same as multiplying x by 2**y.
->> | Signed Right Shift | x >> y | Returns x with the bits shifted to the right by y places. This is the same as //'ing x by 2**y.
+<< | Zero Fill Left Shift | x << y | Returns x with the bits shifted to the left by y places (and new bits on the right-hand-side are zeros). This is the same as multiplying x by 2\*\*y.
+>> | Signed Right Shift | x >> y | Returns x with the bits shifted to the right by y places. This is the same as dividing x by 2\*\*y.
 & | AND | x & y | Each bit of the output is 1 if the corresponding bit of x AND of y is 1, otherwise it's 0.
 \| | OR | x \| y | Each bit of the output is 0 if the corresponding bit of x AND of y is 0, otherwise it's 1.
 ~ | NOT (Complement) | ~ x | Returns the complement of x - the number you get by switching each 1 for a 0 and each 0 for a 1. This is the same as -x - 1.
@@ -435,10 +435,10 @@ class MyNumbers:
   def __next__(self):    #Stop after 20 iterations
   	if self.a <= 20:
    		x = self.a
-   	   self.a += 1
-   	   return x
-    else:
-      raise StopIteration
+		self.a += 1
+		return x
+    	else:
+      		raise StopIteration
 
 
 myclass = MyNumbers()
