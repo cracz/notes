@@ -12,6 +12,7 @@
 * [JSON](#json)
 * [RegEx](#regex)
 * [Try/Except](#try)
+* [File Handling](#files)
 
 ## <a name="syntax"></a> Syntax
 * Blocks of code are defined by indentation, not braces.
@@ -570,3 +571,16 @@ finally:
 ```
 
 [Back to top](#top)
+
+
+## <a name="files"></a> File Handling
+
+* Open files using the `open()` function, such as `f = open("file.txt", "rt")`. Two paramters are the file name and the mode. Modes:
+	* "r" = Read (DEFAULT); The file must exist already.
+	* "a" = Append; Creates the file if it doesn't exist.
+	* "w" = Write; Creates the file if it doesn't exist.
+	* "x" = Create; The file must not exist already.
+	* "t" = Text (DEFAULT); Text mode.
+	* "b" = Binary; For stuff like images.
+
+

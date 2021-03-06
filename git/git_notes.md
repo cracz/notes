@@ -9,7 +9,7 @@
 
 ```bash
 cd the_repo/
-git checkout <your branch name>
+git checkout -b <your branch name>
 ```
 
 * Committing your changes:
