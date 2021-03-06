@@ -436,10 +436,10 @@ class MyNumbers:
   def __next__(self):    #Stop after 20 iterations
   	if self.a <= 20:
    		x = self.a
-   	   self.a += 1
-   	   return x
-    else:
-      raise StopIteration
+		self.a += 1
+		return x
+    	else:
+      		raise StopIteration
 
 
 myclass = MyNumbers()
