@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/ConfigReader_package/ConfigReader.py
+src/ConfigReader_package/__init__.py
+src/ConfigReader_pkg_cracz.egg-info/PKG-INFO
+src/ConfigReader_pkg_cracz.egg-info/SOURCES.txt
+src/ConfigReader_pkg_cracz.egg-info/dependency_links.txt
+src/ConfigReader_pkg_cracz.egg-info/top_level.txt
