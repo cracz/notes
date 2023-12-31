@@ -99,3 +99,9 @@ SELECT year,
 * `OR` allows you to select rows that satisfy either of two conditions.
 * `NOT` allows you to select rows that do not match a certain condition.
 
+# LeetCode
+
+### Common Table Expressions (CTEs)
+
+Source/Example: Leetcode problem "Game Play Analysis IV"
+
